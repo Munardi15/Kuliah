@@ -1,0 +1,135 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = kuliah
+build_property.RootNamespace = kuliah
+build_property.ProjectDir = C:\Users\USER\source\repos\kuliah\kuliah\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\USER\source\repos\kuliah\kuliah
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/USER/source/repos/kuliah/kuliah/Views/Dosens/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9zZW5zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/kuliah/kuliah/Views/Dosens/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9zZW5zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/kuliah/kuliah/Views/Dosens/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9zZW5zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/kuliah/kuliah/Views/Dosens/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9zZW5zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/kuliah/kuliah/Views/Dosens/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9zZW5zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/kuliah/kuliah/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/kuliah/kuliah/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/kuliah/kuliah/Views/Mahasiswas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFoYXNpc3dhc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/kuliah/kuliah/Views/Mahasiswas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFoYXNpc3dhc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/kuliah/kuliah/Views/Mahasiswas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFoYXNpc3dhc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/kuliah/kuliah/Views/Mahasiswas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFoYXNpc3dhc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/kuliah/kuliah/Views/Mahasiswas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFoYXNpc3dhc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/kuliah/kuliah/Views/Marakuliahs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFyYWt1bGlhaHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/kuliah/kuliah/Views/Marakuliahs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFyYWt1bGlhaHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/kuliah/kuliah/Views/Marakuliahs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFyYWt1bGlhaHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/kuliah/kuliah/Views/Marakuliahs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFyYWt1bGlhaHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/kuliah/kuliah/Views/Marakuliahs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFyYWt1bGlhaHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/kuliah/kuliah/Views/Perkuliahans/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVya3VsaWFoYW5zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/kuliah/kuliah/Views/Perkuliahans/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVya3VsaWFoYW5zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/kuliah/kuliah/Views/Perkuliahans/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVya3VsaWFoYW5zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/kuliah/kuliah/Views/Perkuliahans/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVya3VsaWFoYW5zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/kuliah/kuliah/Views/Perkuliahans/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVya3VsaWFoYW5zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/kuliah/kuliah/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/kuliah/kuliah/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/kuliah/kuliah/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/kuliah/kuliah/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/kuliah/kuliah/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-de29arywx2
